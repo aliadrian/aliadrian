@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian! 👋 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliadrian&hide=stars,issues&show_icons=true&theme=default" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliadrian&hide=stars,issues&show_icons=true&theme=default" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadrian&layout=compact" />
 
