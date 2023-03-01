@@ -1,4 +1,4 @@
-# Hi there I'm Adrian! 👋 
+# Hi there, I'm Adrian! 👋 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aliadrian&hide=stars,issues&show_icons=true&theme=default" />
 
