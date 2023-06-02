@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian! 👋 
 
-You can find most of the projects that I've done in my portfolio => https://portfolio-aliadrian.vercel.app/
+You can find most of the projects that I've done in my portfolio => <a href="https://portfolio-aliadrian.vercel.app/" target="_blank">https://portfolio-aliadrian.vercel.app/</a>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliadrian&hide=stars,issues&show_icons=true&theme=radical" />
 
