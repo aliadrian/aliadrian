@@ -27,18 +27,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)
 
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=cs,sqlite)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cs,sqlite)
 
 ### Design:
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)&nbsp;
+![My Skills](https://skillicons.dev/icons?i=figma)&nbsp;
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png />&nbsp;
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png />&nbsp;
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png />&nbsp;
 
 ### Profile badge on [CodeWars](https://www.codewars.com/users/aliadrian):
- <img src="https://www.codewars.com/users/aliadrian/badges/large" />&nbsp;
+<img src="https://www.codewars.com/users/aliadrian/badges/large" />&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=footer" />
