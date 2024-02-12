@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)]
 
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=cs,sqlite)](https://skillicons.dev)
