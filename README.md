@@ -1,10 +1,16 @@
 # Hi there, I'm Adrian! 👋 
 
-### You can find most of the projects that I've done in my portfolio => <strong><a href="https://portfolio-aliadrian.vercel.app/" target="_blank">https://portfolio-aliadrian.vercel.app/</a></strong>
+> [Portfolio](https://portfolio-aliadrian.vercel.app/)
 <br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliadrian&hide=stars,issues&show_icons=true&theme=radical" />
+<div>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=aliadrian&hide=stars,issues&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadrian&layout=compact&theme=radical" />
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadrian&layout=compact&theme=radical" />
+> Profile badge on [CodeWars](https://www.codewars.com/users/aliadrian)
+<div>
+  <img src="https://www.codewars.com/users/aliadrian/badges/large" />
+</div>
 <!-- <pre>
 Below is the languages I use to program in the most.
 </pre>
