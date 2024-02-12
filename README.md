@@ -39,6 +39,8 @@
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png />&nbsp;
 
 ### Profile badge on [CodeWars](https://www.codewars.com/users/aliadrian):
-<img src="https://www.codewars.com/users/aliadrian/badges/large" />&nbsp;
+<a href=https://www.codewars.com/users/aliadrian>
+  <img src="https://www.codewars.com/users/aliadrian/badges/large" />&nbsp;
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=footer" />
