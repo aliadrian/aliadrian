@@ -15,7 +15,7 @@
 </div>
 
 ### Important links:
-👩‍💻 [Portfolio](https://portfolio-aliadrian.vercel.app/)
+<!---👩‍💻 [Portfolio](https://portfolio-aliadrian.vercel.app/)--->
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
