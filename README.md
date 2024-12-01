@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2B035&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Adrian+Nasrat;I'm+28+years+old;I'm+from+Sweden;I'm+a+frontend+developer;Welcome!)](https://git.io/typing-svg)
 
-<div align="center">  
+<!---<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aliadrian&show_icons=true&count_private=true&hide_border=true&title_color=F2B035&icon_color=F28963&text_color=c9d1d9&bg_color=0d1117" alt="Adrian Vilches github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadrian&layout=compact&hide_border=true&title_color=F2167D&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+</div>-->
 
 <br>
 
@@ -15,7 +15,7 @@
 </div>
 
 ### Important links:
-<!---👩‍💻 [Portfolio](https://portfolio-aliadrian.vercel.app/)--->
+👩‍💻 [Portfolio](https://a-n-v.vercel.app/)
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
