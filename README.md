@@ -40,7 +40,7 @@
 
 ### Profile badge on [CodeWars](https://www.codewars.com/users/aliadrian):
 <a href=https://www.codewars.com/users/aliadrian>
-  <img src="https://www.codewars.com/users/aliadrian/badges/large" />
+  [<img src="https://www.codewars.com/users/aliadrian/badges/large" />](https://www.codewars.com/users/aliadrian/badges/large)
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=footer" />
