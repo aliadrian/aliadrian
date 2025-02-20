@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=header"/>
-
+<!---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2B035&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Adrian;I'm+a+junior+developer;)](https://git.io/typing-svg)
 
 <!---<div align="center">  
@@ -16,7 +16,7 @@
 
 ### Important links:
 👩‍💻 [Portfolio](https://a-n-v.vercel.app/)
-
+<!---
  ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -37,7 +37,7 @@
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png />&nbsp;
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png />&nbsp;
 <img width=48 height=48 src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png />&nbsp;
-
+-->
 ### Profile badge on [CodeWars](https://www.codewars.com/users/aliadrian):
 <a href=https://www.codewars.com/users/aliadrian>
   <img src="https://www.codewars.com/users/aliadrian/badges/large" />
